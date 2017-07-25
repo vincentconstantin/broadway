@@ -1,0 +1,13 @@
+
+h1 {
+    background-image: url("./projects/broadway/resources/images/background.png");
+    text-align: center;
+    font-size: 70px;
+    color: black;
+}
+
+
+body {
+    font-family: "Helvetica", sans-serif;
+
+}
