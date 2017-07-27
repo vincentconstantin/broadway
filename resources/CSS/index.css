@@ -1,13 +1,29 @@
 
 h1 {
-    background-image: url("./projects/broadway/resources/images/background.png");
     text-align: center;
     font-size: 70px;
-    color: black;
+    color: white;
+}
+
+.hero
+{
+  background-image: url("./images/background.png");
+  text-align:center;
+  color: white;
+}
+
+div {
+  display: block
 }
 
 
 body {
     font-family: "Helvetica", sans-serif;
+      text-align: center;
 
+}
+.footer {
+  background-color:dimgray;
+  font-size: 11px;
+  color: white;
 }
