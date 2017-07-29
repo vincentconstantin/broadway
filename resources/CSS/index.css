@@ -5,6 +5,10 @@ h1 {
     color: white;
 }
 
+.supporting h2 {
+  font-size: 32px
+  
+}
 .hero
 {
   background-image: url("./images/background.png");
@@ -26,4 +30,9 @@ body {
   background-color:dimgray;
   font-size: 11px;
   color: white;
+  text-align: left;
+}
+.btn-nav{
+  font-size:18px;
+  color:white;
 }
